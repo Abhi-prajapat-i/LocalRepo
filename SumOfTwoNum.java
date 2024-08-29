@@ -1,3 +1,4 @@
+package LocalRepo;
 import java.util.*;
 public class SumOfTwoNum {
     public static void main(String args[]){
